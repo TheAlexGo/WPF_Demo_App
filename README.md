@@ -1,7 +1,7 @@
-# WPF_Osnovy_5
+# WPF_Demo_App
 2 практическое задание с WPF
 1. Для запуска проекта, склонируйте данный проект в папку командой\
-```git clone https://github.com/TheAlexGo/WPF_Osnovy_5.git```
+```git clone https://github.com/TheAlexGo/WPF_Demo_App.git```
 2. Запустите данный проект в VisualStudio 2019
 3. Выполните запуск проекта
 ## Полезные команды
